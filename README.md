@@ -55,7 +55,7 @@ This project includes a basic HTML structure and links to an external CSS file (
     │
     ├── output.css             # Stylesheet for the website
     └── index.html             # Main HTML file
-
+```
 ## Contributing
 
 We welcome contributions! If you'd like to contribute to this project, please follow these steps:
