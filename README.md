@@ -78,12 +78,12 @@ This project is licensed under the MIT License. See the <a href="./LICENSE">LICE
 ## Contact
 For questions or inquiries, please contact:
 
-<a href="https://www.linkedin.com/in/krishnapal-rajput">Krishnapal Rajput</a>
+<a href="https://www.linkedin.com/in/krishnapal-rajput">Krishnapal Rajput</a><br>
 <a href="https://www.github.com/krishnapal-rajput">GitHub Profile</a>
 
 <hr>
 
-Thank you for checking out The Shoe Company! We hope you enjoy your shopping experience.
+Thank you for checking out <a href="https://krishnas-projects-the-shoe-company.netlify.app/">The Shoe Company!</a> We hope you enjoy your shopping experience.
 
 
 ### How to Use This `README.md`
