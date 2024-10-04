@@ -38,23 +38,23 @@ To view the website locally, follow these steps:
 This project includes a basic HTML structure and links to an external CSS file (output.css). Customize the content, images, and styles according to your needs.
 
 ## Directory Structure
-
-the-shoe-company/
-│
-├── images/                # Folder containing all images used on the site
-│   ├── logo.png
-│   ├── hero-background.png
-│   ├── hero-image.png
-│   ├── how-it-works.png
-│   ├── about-us-background.png
-│   ├── about-shoe-company.png
-│   ├── testimonial-section-background.png
-│   ├── testimonial-1.png
-│   ├── testimonial-2.png
-│   └── testimonial-3.png
-│
-├── output.css             # Stylesheet for the website
-└── index.html             # Main HTML file
+```bash
+    the-shoe-company/
+    │
+    ├── images/                # Folder containing all images used on the site
+    │   ├── logo.png
+    │   ├── hero-background.png
+    │   ├── hero-image.png
+    │   ├── how-it-works.png
+    │   ├── about-us-background.png
+    │   ├── about-shoe-company.png
+    │   ├── testimonial-section-background.png
+    │   ├── testimonial-1.png
+    │   ├── testimonial-2.png
+    │   └── testimonial-3.png
+    │
+    ├── output.css             # Stylesheet for the website
+    └── index.html             # Main HTML file
 
 ## Contributing
 
